@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+mortality_cache/
+*.zip
+*.part
+.venv/
+venv/
