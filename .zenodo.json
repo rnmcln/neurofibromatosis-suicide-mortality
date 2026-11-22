@@ -1,0 +1,21 @@
+{
+  "title": "Neurofibromatosis mentions and suicide mortality in US death records",
+  "upload_type": "software",
+  "description": "Reproducible code and aggregate outputs for a proportionate mortality analysis of suicide among United States death certificates mentioning ICD-10 code Q85.0, 1999-2024. The repository contains no record-level data.",
+  "creators": [
+    {
+      "name": "McLean, Aaron Lawson",
+      "orcid": "0000-0001-5528-6905",
+      "affiliation": "Department of Neurosurgery, Jena University Hospital, Friedrich Schiller University Jena"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "neurofibromatosis",
+    "suicide",
+    "mortality",
+    "death certificates",
+    "multiple cause of death",
+    "proportionate mortality"
+  ]
+}
