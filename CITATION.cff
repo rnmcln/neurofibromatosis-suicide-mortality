@@ -8,6 +8,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-5528-6905"
 version: 1.0.0
 date-released: 2026-11-22
+doi: 10.5281/zenodo.24444191
 repository-code: "https://github.com/rnmcln/neurofibromatosis-suicide-mortality"
 license: MIT
 keywords:
