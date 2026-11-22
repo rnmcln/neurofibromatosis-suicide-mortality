@@ -79,6 +79,12 @@ may require substantial time and storage.
 Aaron Lawson McLean  
 ORCID: https://orcid.org/0000-0001-5528-6905
 
+## Citation
+
+McLean, A. L. (2026). *Neurofibromatosis mentions and suicide mortality in US
+death records* (Version 1.0.0) [Computer software]. Zenodo.
+https://doi.org/10.5281/zenodo.24444191
+
 ## License
 
 The software is released under the MIT License. The included aggregate outputs
