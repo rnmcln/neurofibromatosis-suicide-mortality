@@ -1,0 +1,3 @@
+analysis,nf_deaths,observed,expected,pmr,ci_low,ci_high,adjustment
+Primary: suicide underlying cause,8160,14,375.58,0.037,0.020,0.063,"year, age group, sex, and race (White/other)"
+"Sensitivity: suicide, adjustment without race",8160,14,368.93,0.038,0.021,0.064,"year, age group, and sex"
