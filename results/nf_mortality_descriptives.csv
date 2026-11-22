@@ -1,0 +1,18 @@
+domain,category,count_or_value,percent
+Overall,Death certificates mentioning Q85.0,8160,100.0
+Overall,Q85.0 selected as underlying cause,2675,32.8
+Age,Median age at death,56.0,
+Age,Age at death Q1,38.0,
+Age,Age at death Q3,70.0,
+Sex,M,4225,51.8
+Sex,F,3935,48.2
+Age group,<10,113,1.4
+Age group,10-19,348,4.3
+Age group,20-29,756,9.3
+Age group,30-39,958,11.7
+Age group,40-49,1165,14.3
+Age group,50-59,1253,15.4
+Age group,60-69,1396,17.1
+Age group,70+,2171,26.6
+Race,White,6641,81.4
+Race,Other,1519,18.6
